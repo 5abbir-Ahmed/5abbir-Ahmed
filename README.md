@@ -16,11 +16,11 @@
 ## 👨‍💻 About Me
 
 
-* 🎓 BSc in Computer Science & Engineering — Daffodil International University
-* 💻 Interested in Full Stack Web Development & Software Engineering
-* 🌐 Experienced with PHP, Laravel, JavaScript, HTML, CSS & MySQL
-* 🐍 Comfortable with Python, C and Machine Learning concepts
-* 📱 Familiar with Flutter & Dart for cross-platform applications
+* 🎓 BSc in Computer Science & Engineering — Daffodil International University.
+* 💻 Interested in Full Stack Web Development & Software Engineering.
+* 🌐 Experienced with PHP, Laravel, JavaScript, HTML, CSS & MySQL.
+* 🐍 Comfortable with Python, C and Machine Learning concepts.
+* 📱 Familiar with Flutter & Dart for cross-platform applications.
 
 ---
 
