@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="./marquee.gif" width="100%" alt="Skills Marquee">
+  <img src="./marquee1.gif" width="100%" alt="Skills Marquee">
 </div>
 
 </div>
