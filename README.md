@@ -5,24 +5,9 @@
 ---
 <br>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-
-<b>I am a CSE Graduate</b> &nbsp; & &nbsp;
-<b>Full Stack Developer</b> &nbsp; & &nbsp;
-<b>Mobile App Developer</b> &nbsp; | &nbsp;
-<b>Works with</b> &nbsp; ➩ &nbsp;
-<b>HTML</b> &nbsp; ➩ &nbsp;
-<b>CSS</b> &nbsp; ➩ &nbsp;
-<b>Laravel</b> &nbsp; ➩ &nbsp;
-<b>PHP</b> &nbsp; ➩ &nbsp;
-<b>JavaScript</b> &nbsp; ➩ &nbsp;
-<b>MySQL</b> &nbsp; ➩ &nbsp;
-<b>Flutter</b> &nbsp; ➩ &nbsp;
-<b>Dart</b> &nbsp; ➩ &nbsp;
-<b>C Programming</b> &nbsp; ➩ &nbsp;
-<b>Python</b> &nbsp;
-
-</marquee>
+<div align="center">
+  <img src="./marquee.gif" width="100%" alt="Skills Marquee">
+</div>
 
 </div>
 
@@ -43,7 +28,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### Programming
 
@@ -55,7 +40,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### Web Development
 
@@ -67,10 +52,8 @@
 * Vue.js
 
 </td>
-</tr>
 
-<tr>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### Database & Backend
 
@@ -80,7 +63,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### Tools
 
