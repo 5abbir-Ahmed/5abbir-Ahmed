@@ -1,73 +1,192 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+I'm+Sabbir+Ahmed;Laravel+%7C+PHP+%7C+Web+Developer;Flutter+%7C+Dart+%7C+C+%7C+Python;Clean+Code+%7C+Creative+Solutions" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&width=800&height=100&multiline=true&repeat=true&cursor=true&lines=Hi%2C+I'm+Sabbir+Ahmed;Welcome+To+My+Profile" alt="Typing SVG" />
+
+---
+<br>
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+
+<b>I am a CSE Graduate</b> &nbsp; & &nbsp;
+<b>Full Stack Developer</b> &nbsp; & &nbsp;
+<b>Mobile App Developer</b> &nbsp; | &nbsp;
+<b>Works with</b> &nbsp; ➩ &nbsp;
+<b>HTML</b> &nbsp; ➩ &nbsp;
+<b>CSS</b> &nbsp; ➩ &nbsp;
+<b>Laravel</b> &nbsp; ➩ &nbsp;
+<b>PHP</b> &nbsp; ➩ &nbsp;
+<b>JavaScript</b> &nbsp; ➩ &nbsp;
+<b>MySQL</b> &nbsp; ➩ &nbsp;
+<b>Flutter</b> &nbsp; ➩ &nbsp;
+<b>Dart</b> &nbsp; ➩ &nbsp;
+<b>C Programming</b> &nbsp; ➩ &nbsp;
+<b>Python</b> &nbsp;
+
+</marquee>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+
+* 🎓 BSc in Computer Science & Engineering — Daffodil International University
+* 💻 Interested in Full Stack Web Development & Software Engineering
+* 🌐 Experienced with PHP, Laravel, JavaScript, HTML, CSS & MySQL
+* 🐍 Comfortable with Python, C and Machine Learning concepts
+* 📱 Familiar with Flutter & Dart for cross-platform applications
+
+---
+
+## 🛠️ Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Programming
+
+* C
+* Python
+* PHP
+* JavaScript
+* Dart
+
+</td>
+
+<td valign="top" width="50%">
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+* Laravel
+* PHP
+* Vue.js
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### Database & Backend
+
+* MySQL
+* Laravel
+* Backend Architecture
+
+</td>
+
+<td valign="top" width="50%">
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* XAMPP
+* Microsoft Office
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌍 Let's Explore Bangladesh
+
+A Laravel-based travel platform designed to help users explore destinations across Bangladesh.
+
+**Highlights**
+
+* Destination listings
+* Detailed place information
+* Session-based cart
+* OpenWeather API integration
+* Responsive web interface
+
+**Tech:**
+`Laravel` `PHP` `Blade` `MySQL` `OpenWeather API`
+
+<br/>
+
+<a href="https://github.com/Sabbir4916/Let-s_Explore_Bangladesh">
+<img src="https://img.shields.io/badge/View%20Repository-2F80ED?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍽️ Restaurant Reservation System
+
+A cross-platform application for managing restaurant table reservations and administrative workflows.
+
+**Highlights**
+
+* Reservation management
+* Booking form
+* Admin approval workflow
+* Table management
+* Cross-platform interface
+
+**Tech:**
+`Flutter` `Dart`
+
+<br/>
+
+<a href="https://github.com/Sabbir4916/restaurant_reservation_system">
+<img src="https://img.shields.io/badge/View%20Repository-2F80ED?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:ahmed15-4916@diu.edu.bd"><img src="https://img.shields.io/badge/Email-ahmed15--4916@diu.edu.bd-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sabbir-ahmed-65b817237/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://www.facebook.com/Sabbir.290/"><img src="https://img.shields.io/badge/Facebook-@Sabbir.290-blue?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://github.com/Sabbir4916"><img src="https://img.shields.io/badge/GitHub-@Sabbir4916-black?style=flat-square&logo=github" /></a>
+<a href="mailto:ahmed15-4916@diu.edu.bd">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sabbir-ahmed-cse/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/Sabbir4916">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.facebook.com/Sabbir.290/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
+<a href="https://www.instagram.com/5abbir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://x.com/5abbir_Ahmed"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
----
+<br>
+<br>
 
-### 💼 About Me
+<div align="center">
 
-- 🎓 **CSE Student** from Daffodil International University, Bangladesh  
-- 💻 Passionate **Full Stack Developer** skilled in Laravel, PHP, MySQL, and Python  
-- 🧠 Proficient in **C** and **Python** for problem-solving and algorithmic thinking  
-- 🌱 Currently exploring **Livewire**, **Inertia.js**, and **Vue.js** to build dynamic UIs  
-- ⚙️ Enthusiastic about **clean code**, **modular backend architecture**, and **system optimization**  
-- 🚀 Always learning, building, and pushing boundaries to deliver meaningful digital solutions
+**Thanks for visiting my profile! ❤️**
 
----
+<br/>
 
-### 🛠️ My Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,php,laravel,mysql,html,css,js,git,vscode" />
-</p>
+<sub>© 2026 Sabbir Ahmed.</sub>
 
-
----
-
-### 🚀 Projects
-
-#### 🌍 [Let's Explore Bangladesh](https://github.com/Sabbir4916/Let-s_Explore_Bangladesh)
-> A Laravel-based travel website showcasing beautiful places in Bangladesh.  
-✅ Place listings, session-based cart, weather API integration  
-🛠️ Laravel, PHP, Blade, OpenWeather API
-
-#### 🍽️ [Restaurant Reservation System](https://github.com/Sabbir4916/restaurant_reservation_system)
-> A simple web app to manage restaurant table bookings.  
-✅ Reservation form, admin approval system, table management  
-🛠️ Flutter, Dart
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabbir4916&show_icons=true&theme=react&count_private=true" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=Sabbir4916&theme=react" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir4916&layout=compact&theme=react" width="45%" />
-</p>
-
----
-
-### 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:ahmed15-4916@diu.edu.bd"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sabbir-ahmed-65b817237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/Sabbir.290/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<p align="center">Built with ❤️ by Sabbir Ahmed</p>
+</div>
