@@ -2,11 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&width=800&height=100&multiline=true&repeat=true&cursor=true&lines=Hi%2C+I'm+Sabbir+Ahmed;Welcome+To+My+Profile" alt="Typing SVG" />
 
----
-<br>
-
 <div align="center">
-  <video src="./S.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./S.gif" width="100%" alt="Skills Marquee">
 </div>
 
 </div>
