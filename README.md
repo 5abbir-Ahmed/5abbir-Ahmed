@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="./marquee1.gif" width="100%" alt="Skills Marquee">
+  <video src="./S.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 </div>
@@ -26,17 +26,17 @@
 
 ## 🛠️ Skills
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="25%">
 
 ### Programming
 
-* C
-* Python
-* PHP
-* JavaScript
-* Dart
+- C
+- Python
+- PHP
+- JavaScript
+- Dart
 
 </td>
 
@@ -44,12 +44,11 @@
 
 ### Web Development
 
-* HTML
-* CSS
-* JavaScript
-* Laravel
-* PHP
-* Vue.js
+- HTML
+- CSS
+- JavaScript
+- Laravel
+- PHP
 
 </td>
 
@@ -57,9 +56,9 @@
 
 ### Database & Backend
 
-* MySQL
-* Laravel
-* Backend Architecture
+- MySQL
+- Laravel
+- Backend Architecture
 
 </td>
 
@@ -67,11 +66,11 @@
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* XAMPP
-* Microsoft Office
+- Git
+- GitHub
+- VS Code
+- XAMPP
+- Microsoft Office
 
 </td>
 </tr>
